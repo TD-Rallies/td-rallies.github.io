@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "za.co.tdrally.stcrecorder",
+      "sha256_cert_fingerprints": [
+        "9C:5B:99:FF:A6:8B:07:20:51:1F:DD:16:5E:53:C5:BA:2A:58:F2:F5:EC:AD:50:E5:96:00:40:DB:FF:3C:18:EA"
+      ]
+    }
+  }
+]
